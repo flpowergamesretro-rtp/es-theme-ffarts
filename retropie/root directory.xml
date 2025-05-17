@@ -1,0 +1,157 @@
+ <!--
+
+ 	 Theme: FFArts
+ 	 Version: 1.0
+ 	 Author: FLPower Games Retro
+ 	 Description: Theme developed for RetroPie v4.8
+
+ -->
+
+ <theme>
+
+ 	 <formatVersion>6</formatVersion>
+ 	 <resolution>1920 1080</resolution>
+
+ 	 <feature supported="carousel">
+
+ 	 	 <view name="system">
+ 	 	 	 <carousel name="systemcarousel">
+ 	 	 	 	 <pos>0 680</pos>
+ 	 	 	 	 <color>00000000</color>
+ 	 	 	 	 <logoScale>1</logoScale>
+ 	 	 	 	 <maxLogoCount>7</maxLogoCount>
+ 	 	 	 </carousel>
+ 	 	 	 <text name="systemInfo">
+ 	 	 	 	 <pos>429 930</pos>
+ 	 	 	 	 <size>1063 38</size>
+ 	 	 	 	 <color>${color.white}</color>
+ 	 	 	 	 <fontSize>15</fontSize>
+ 	 	 	 	 <alignment>center</alignment>
+ 	 	 	 	 <fontPath>./contents/fonts/Cheerful Dynamite Free.ttf</fontPath>
+ 	 	 	 </text>
+ 	 	 </view>
+
+ 	 </feature>
+
+ 	 <view name="system">
+ 	 	 <image name="background" extra="true">
+ 	 	 	 <pos>0 0</pos>
+ 	 	 	 <origin>0 0</origin>
+ 	 	 	 <size>1920 1080</size>
+ 	 	 </image>
+ 	 	 <image name="gradient" extra="true">
+ 	 	 	 <pos>0 0</pos>
+ 	 	 	 <origin>0 0</origin>
+ 	 	 	 <size>1920 1080</size>
+ 	 	 </image>
+ 	 	 <image name="footer" extra="true">
+ 	 	 	 <pos>0 999</pos>
+ 	 	 	 <maxSize>1920 984</maxSize>
+ 	 	 	 <color>${color.blue}</color>
+ 	 	 </image>
+ 	 	 <image name="signature" extra="true">
+ 	 	 	 <pos>0 999</pos>
+ 	 	 	 <maxSize>1920 984</maxSize>
+ 	 	 </image>
+ 	 	 <image name="iconsys" extra="true">
+ 	 	 	 <pos>44 122</pos>
+ 	 	 	 <size>170 157</size>
+ 	 	 	 <path>./contents/images/icon-person.png</path>
+ 	 	 </image>
+ 	 </view>
+
+ 	 <view name="basic, detailed, video, grid">
+ 	 	 <image name="background">
+ 	 	 	 <pos>0 0</pos>
+ 	 	 	 <origin>0 0</origin>
+ 	 	 	 <size>1920 1080</size>
+ 	 	 </image>
+ 	 	 <image name="logo">
+ 	 	 	 <pos>1506 154</pos>
+ 	 	 	 <maxSize>130 230</maxSize>
+ 	 	 </image>
+ 	 	 <helpsystem name="help">
+ 	 	 	 <textColor>${colorLettersFooter}</textColor>
+ 	 	 	 <iconColor>${colorLettersFooter}</iconColor>
+ 	 	 	 <fontSize>30</fontSize>
+ 	 	 </helpsystem>
+ 	 	 <image name="footer" extra="true">
+ 	 	 	 <pos>0 999</pos>
+ 	 	 	 <maxSize>1920 984</maxSize>
+ 	 	 	 <color>${color.blue}</color>
+ 	 	 </image>
+ 	 	 <image name="signature" extra="true">
+ 	 	 	 <pos>0 999</pos>
+ 	 	 	 <maxSize>1920 984</maxSize>
+ 	 	 </image>
+ 	 	 <textlist name="gamelist">
+ 	 	 	 <pos>1080 316</pos>
+ 	 	 	 <size>811 541</size>
+ 	 	 	 <selectorColor>4a22af</selectorColor>
+ 	 	 	 <selectedColor>${color.white}</selectedColor>
+ 	 	 	 <primaryColor>${color.white}</primaryColor>
+ 	 	 </textlist>
+ 	 	 <text name="md_lbl_rating">
+ 	 	 	 <pos>18 548</pos>
+ 	 	 </text>
+ 	 	 <text name="md_lbl_releasedate">
+ 	 	 	 <pos>18 592</pos>
+ 	 	 </text>
+ 	 	 <text name="md_lbl_developer">
+ 	 	 	 <pos>18 636</pos>
+ 	 	 </text>
+ 	 	 <text name="md_lbl_publisher">
+ 	 	 	 <pos>18 680</pos>
+ 	 	 </text>
+ 	 	 <text name="md_lbl_genre">
+ 	 	 	 <pos>368 548</pos>
+ 	 	 </text>
+ 	 	 <text name="md_lbl_players">
+ 	 	 	 <pos>368 592</pos>
+ 	 	 </text>
+ 	 	 <text name="md_lbl_lastplayed">
+ 	 	 	 <pos>368 636</pos>
+ 	 	 </text>
+ 	 	 <text name="md_lbl_playcount">
+ 	 	 	 <pos>368 680</pos>
+ 	 	 </text>
+ 	 	 <text name="md_developer">
+ 	 	 	 <pos>156 636</pos>
+ 	 	 </text>
+ 	 	 <text name="md_publisher">
+ 	 	 	 <pos>156 680</pos>
+ 	 	 </text>
+ 	 	 <text name="md_genre">
+ 	 	 	 <pos>545 548</pos>
+ 	 	 </text>
+ 	 	 <text name="md_players">
+ 	 	 	 <pos>545 592</pos>
+ 	 	 </text>
+ 	 	 <text name="md_playcount">
+ 	 	 	 <pos>545 680</pos>
+ 	 	 </text>
+ 	 	 <rating name="md_rating">
+ 	 	 	 <pos>156 548</pos>
+ 	 	 </rating>
+ 	 	 <datetime name="md_releasedate">
+ 	 	 	 <pos>156 592</pos>
+ 	 	 </datetime>
+ 	 	 <datetime name="md_lastplayed">
+ 	 	 	 <pos>545 636</pos>
+ 	 	 </datetime>
+ 	 	 <image name="md_image">
+ 	 	 	 <pos>489 401</pos>
+ 	 	 	 <maxSize>795 488</maxSize>
+ 	 	 </image>
+ 	 	 <image name="md_marquee">
+ 	 	 	 <pos>489 401</pos>
+ 	 	 	 <maxSize>795 488</maxSize>
+ 	 	 </image>
+ 	 	 <video name="md_video">
+ 	 	 	 <pos>489 401</pos>
+ 	 	 	 <maxSize>795 488</maxSize>
+ 	 	 </video>
+ 	 </view>
+
+
+ </theme>
