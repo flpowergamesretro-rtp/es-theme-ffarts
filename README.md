@@ -1,6 +1,6 @@
 # es-theme-ffarts
 
->>Text translated from Portuguese (Brazil) to English by Google Translate<<
+[Text translated from Portuguese (Brazil) to English by Google Translate]
 
 
 Hello everyone!
