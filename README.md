@@ -20,12 +20,19 @@ The FFArts theme also contains support for collections roms systems from CAPCOM 
 Below is the path to custom themes:
 
 capcom
+
 finalfantasy
+
 mario
+
 megadriveh
+
 megadrivejp
+
 mortalkombat
+
 snesh
+
 snesjp
 
 For people in Brazil, the FFArts theme also contains support for the Dynavysion collections systems, Mega Drive roms translated into pt-br, Phatom System, Super Nintendo roms translated into pt-br, Tec Toy, Turbo Game.
@@ -33,8 +40,13 @@ For people in Brazil, the FFArts theme also contains support for the Dynavysion 
 Below is the path to custom themes:
 
 dynavision
+
 megadrivebr
+
 phantom
+
 snesbr
+
 Tectoy
+
 turbogame
