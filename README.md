@@ -50,6 +50,6 @@ phantom
 
 snesbr
 
-Tectoy
+tectoy
 
 turbogame
