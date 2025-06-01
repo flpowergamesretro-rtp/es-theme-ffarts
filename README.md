@@ -14,7 +14,8 @@ Note: none of the images used were created by me, I only used images downloaded 
 ![03](https://github.com/user-attachments/assets/ac1777cb-1e0f-4855-9744-2fd11910fdbf)
 ![02](https://github.com/user-attachments/assets/ede2d526-91d7-4c78-9a75-1de9656cbefb)
 ![04](https://github.com/user-attachments/assets/723c6113-eba9-43a8-9b3d-7419c846582e)
-![05](https://github.com/user-attachments/assets/555bffde-ad98-4bec-bdcb-66a766df5d16)
+![05](https://github.com/user-attachments/assets/37fd4255-0d0f-466f-ac5a-efc215b866c6)
+
 
 
 The FFArts theme also contains support for collections roms systems from CAPCOM Arcade, Castlevania, Final Fantasy, Roms Hack, Super Mario, Mega Drive Hack, Mega Drive Japan, Mortal Kombat, Super Nintendo Hack, Super Nintendo Japan.
