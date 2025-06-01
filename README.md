@@ -14,3 +14,7 @@ Note: none of the images used were created by me, I only used images downloaded 
 ![03](https://github.com/user-attachments/assets/ac1777cb-1e0f-4855-9744-2fd11910fdbf)
 ![02](https://github.com/user-attachments/assets/ede2d526-91d7-4c78-9a75-1de9656cbefb)
 ![04](https://github.com/user-attachments/assets/723c6113-eba9-43a8-9b3d-7419c846582e)
+
+The FArts theme also contains support for collections roms systems from CAPCOM Arcade, Castlevania, Final Fantasy, Roms Hack, Super Mario, Mega Drive Hack, Mega Drive Japan, Mortal Kombat, Super Nintendo Hack, Super Nintendo Japan.
+
+For people in Brazil, the FArts theme also contains support for the Dynavysion collections systems, Mega Drive roms translated into pt-br, Phatom System, Super Nintendo roms translated into pt-br, Tec Toy, Turbo Game.
