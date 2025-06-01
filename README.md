@@ -17,4 +17,24 @@ Note: none of the images used were created by me, I only used images downloaded 
 
 The FFArts theme also contains support for collections roms systems from CAPCOM Arcade, Castlevania, Final Fantasy, Roms Hack, Super Mario, Mega Drive Hack, Mega Drive Japan, Mortal Kombat, Super Nintendo Hack, Super Nintendo Japan.
 
+Below is the path to custom themes:
+
+capcom
+finalfantasy
+mario
+megadriveh
+megadrivejp
+mortalkombat
+snesh
+snesjp
+
 For people in Brazil, the FFArts theme also contains support for the Dynavysion collections systems, Mega Drive roms translated into pt-br, Phatom System, Super Nintendo roms translated into pt-br, Tec Toy, Turbo Game.
+
+Below is the path to custom themes:
+
+dynavision
+megadrivebr
+phantom
+snesbr
+Tectoy
+turbogame
