@@ -56,7 +56,7 @@ snesjp
 
 For people in Brazil, the FFArts theme also contains support for the Dynavysion collections systems, Mega Drive roms translated into pt-br, Phatom System, Super Nintendo roms translated into pt-br, Tec Toy, Turbo Game.
 
-![16](https://github.com/user-attachments/assets/7bf79e08-9184-49d9-9c67-eb50b6b33c43)
+![16](https://github.com/user-attachments/assets/b522b4a1-3b14-422f-b376-3b49108e7aa1)
 ![17](https://github.com/user-attachments/assets/aefc9cfb-193d-4ea7-ba1e-6286a669136e)
 ![18](https://github.com/user-attachments/assets/72f92481-c8f9-46f1-80ce-b5f6d73b7361)
 ![19](https://github.com/user-attachments/assets/a9432a5f-8f08-44e0-a8c6-0559e7df7734)
