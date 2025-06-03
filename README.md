@@ -24,6 +24,8 @@ Below is the path to custom themes:
 
 capcom
 
+castlevania
+
 finalfantasy
 
 mario
