@@ -12,7 +12,6 @@ Note: none of the images used were created by me, I only used images downloaded 
 
 ![01](https://github.com/user-attachments/assets/74c70363-e524-4930-afa6-dcf16bce69ad)
 ![03](https://github.com/user-attachments/assets/ac1777cb-1e0f-4855-9744-2fd11910fdbf)
-![ff](https://github.com/user-attachments/assets/3dec46cf-66d8-4583-a8af-6fb4703f3187)
 ![02](https://github.com/user-attachments/assets/ede2d526-91d7-4c78-9a75-1de9656cbefb)
 ![04](https://github.com/user-attachments/assets/723c6113-eba9-43a8-9b3d-7419c846582e)
 ![05](https://github.com/user-attachments/assets/37fd4255-0d0f-466f-ac5a-efc215b866c6)
@@ -23,6 +22,7 @@ The FFArts theme also contains support for collections roms systems from CAPCOM 
 
 ![06](https://github.com/user-attachments/assets/27ea55f7-f64f-4fc1-9348-cfa57354e95d)
 ![07](https://github.com/user-attachments/assets/3d5eb0c0-639b-4a29-90ea-a1a0bf3e6d06)
+![ff](https://github.com/user-attachments/assets/3dec46cf-66d8-4583-a8af-6fb4703f3187)
 ![08](https://github.com/user-attachments/assets/f20a4369-d600-4645-bf64-7d0b2aa0e9fc)
 ![09](https://github.com/user-attachments/assets/ce229fda-3c9c-4f94-8657-2d646b27978b)
 ![10](https://github.com/user-attachments/assets/aaac3c7f-6bb5-46d4-9b03-1d64df2960ab)
