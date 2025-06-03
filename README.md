@@ -12,6 +12,7 @@ Note: none of the images used were created by me, I only used images downloaded 
 
 ![01](https://github.com/user-attachments/assets/74c70363-e524-4930-afa6-dcf16bce69ad)
 ![03](https://github.com/user-attachments/assets/ac1777cb-1e0f-4855-9744-2fd11910fdbf)
+![ff](https://github.com/user-attachments/assets/3dec46cf-66d8-4583-a8af-6fb4703f3187)
 ![02](https://github.com/user-attachments/assets/ede2d526-91d7-4c78-9a75-1de9656cbefb)
 ![04](https://github.com/user-attachments/assets/723c6113-eba9-43a8-9b3d-7419c846582e)
 ![05](https://github.com/user-attachments/assets/37fd4255-0d0f-466f-ac5a-efc215b866c6)
@@ -54,6 +55,13 @@ snesh
 snesjp
 
 For people in Brazil, the FFArts theme also contains support for the Dynavysion collections systems, Mega Drive roms translated into pt-br, Phatom System, Super Nintendo roms translated into pt-br, Tec Toy, Turbo Game.
+
+![16](https://github.com/user-attachments/assets/7bf79e08-9184-49d9-9c67-eb50b6b33c43)
+![17](https://github.com/user-attachments/assets/aefc9cfb-193d-4ea7-ba1e-6286a669136e)
+![18](https://github.com/user-attachments/assets/72f92481-c8f9-46f1-80ce-b5f6d73b7361)
+![19](https://github.com/user-attachments/assets/a9432a5f-8f08-44e0-a8c6-0559e7df7734)
+![20](https://github.com/user-attachments/assets/8dac69b8-1169-430f-99de-663b304a5427)
+![tb](https://github.com/user-attachments/assets/58ba5a55-11bc-4851-a787-f4b7cdf60103)
 
 Below is the path to custom themes:
 
