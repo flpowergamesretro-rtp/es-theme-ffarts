@@ -1,4 +1,4 @@
-# es-theme-ffarts
+# FF-Arts Theme
 
 [Text translated from Portuguese (Brazil) to English by Google Translate]
 
